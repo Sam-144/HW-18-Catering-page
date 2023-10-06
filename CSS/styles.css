@@ -1,0 +1,36 @@
+body {
+    background-image: url(/Images/BG.png);
+}
+#navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgba(0, 45, 92, 1);
+}
+.navitems {
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+    font-size: 30px;
+    color: white;
+    align-items: flex-end;
+    padding: 10px;
+}
+.Hero {
+    margin: .5px;
+}
+#Cardcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 61px;
+    margin-top: 152px;
+}
+#card {
+    border: 6px solid #006ba6;
+    border-radius: 10px;
+    background: #F3EBD0;
+    width: 1178px;
+    height: 576px;
+    margin: 61px;
+}
