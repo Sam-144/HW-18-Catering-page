@@ -72,6 +72,20 @@ p {
     font-weight: 400;
     line-height: normal;
 }
+.Card4 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+.server {
+    width: 325.556px;
+    height: 352px;
+    margin-top: 110px;
+    margin-left: 42.73px;
+}
+.lastcategory {
+    margin-left: 34.56px;
+}
 #footer {
     background-color: #0C6ba6;
     display: flex;
